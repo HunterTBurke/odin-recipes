@@ -1,2 +1,2 @@
 # Odin Recipes
-A collection of effcient effective primal recipes.
+A collection of efficient, effective primal recipes.
